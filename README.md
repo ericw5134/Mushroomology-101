@@ -1,4 +1,4 @@
-# Mushroomology 120: Introduction to Mushrooms
+# Mushroomology 101: Introduction to Mushrooms
 
 ## Group funGuys:
 
