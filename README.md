@@ -1,11 +1,5 @@
 # Mushroomology 101: Introduction to Mushrooms
 
-## Group funGuys:
-
-- **YuSong Wang**
-- **Jerome Lau**
-- **HaoHan Xu**  
-
 ---
 
 ## Problem Definition & Justification
