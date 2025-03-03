@@ -2,6 +2,13 @@
 
 ---
 
+## Members
+Eric
+Jerome
+Haohan
+
+---
+
 ## Problem Definition & Justification
 
 For many people, foraging for mushrooms is a dangerous task. While some mushrooms are absolutely delicious like the Shiitake mushrooms, others can be poisonous or even deadly, such as the Death Cap Mushrooms. As more and more people cherish a healthy lifestyle of eating organic foods, mushroom-picking will undoubtedly be on a rising trend. Therefore, it is crucial to know which mushrooms are safe for consumption, and which mushrooms are harmful. Identifying the differences based on visual features like colour, cap shape, gill attachment, or habitat can be extremely challenging without guidance. 
